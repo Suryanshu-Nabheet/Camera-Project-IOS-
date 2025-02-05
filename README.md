@@ -25,35 +25,6 @@ This project is an iOS Camera App that allows users to take photos, record video
 
 ---
 
-## **Core Features**
-
-1. **Camera Functionality**  
-   - Capture photos and record videos.  
-   - Support for both front and rear cameras.  
-   - Real-time display of camera view.
-
-2. **Filters and Effects**  
-   - Apply filters to photos and videos in real-time.  
-   - Adjust brightness, contrast, saturation, and other effects.  
-
-3. **Gallery Access**  
-   - Save captured photos and videos to the device gallery.  
-   - View previously taken photos and videos within the app.
-
-4. **User Interface**  
-   - Simple and intuitive UI to enhance user experience.  
-   - Optimized layout for both iPhones and iPads.
-
-5. **Camera Settings**  
-   - Adjust focus, exposure, and white balance settings.  
-   - Enable or disable the flash for photos and videos.
-
-6. **Video Recording**  
-   - Record videos with adjustable resolution and frame rate.  
-   - Pause and resume video recording during the capture.
-
----
-
 ## **Run Project**
 
 Follow these steps to set up and run the project on your local machine:
